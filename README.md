@@ -2,6 +2,7 @@
 
 The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downtown LA, Central LA, North Hollywood and the Westside. Metro Bike Share offers convenient round-the-clock access to a fleet of bicycles for short trips. Metro Bike Share is one of LA Metro's multiple public transportation options for Angelenos and visitors to get around.
 
+![metro_bike](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/DSC01282-1600x885.jpg)
 
 Metro Bike Share is a partnership between Metro and the City of Los Angeles.
 
