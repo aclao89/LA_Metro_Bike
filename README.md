@@ -68,7 +68,7 @@ Status: "Active" for stations available or "Inactive" for stations that are not 
  1. What is the average duration of a trip?
  2. What is the ratio of round vs one-way trips?
  3. What is the distribution of membership types? 
- 4. Which month has the most volumn of trips? 
+ 4. Which month has the most volume of trips? 
  5. Which day has the most volume of trips?
  6. Which day has the longest average duration of a trip?
  7. What are the most popular start and end stations?
