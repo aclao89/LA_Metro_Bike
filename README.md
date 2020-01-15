@@ -1,4 +1,4 @@
-# LA_Metro_Bike
+# LA Metro BikeShare 
 
 The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downtown LA, Central LA, North Hollywood and the Westside. Metro Bike Share offers convenient round-the-clock access to a fleet of bicycles for short trips. Metro Bike Share is one of LA Metro's multiple public transportation options for Angelenos and visitors to get around.
 
@@ -8,7 +8,12 @@ Metro Bike Share is a partnership between Metro and the City of Los Angeles.
 
 Metro is a multimodal transportation agency that is really three companies in one: a major operator that transports about 1.5 million boarding passengers on an average weekday on a fleet of 2,200 clean air buses and six rail lines, a major construction agency that oversees many bus, rail, highway and other mobility-related building projects, and it is the lead transportation planning and programming agency for Los Angeles County.  
 
-Data Format
+                                                        Data Format Overview
+Total rides in 2017: 229,255
+Columns: 14 
+Total rides after removing rows with N/A values: 225,034
+
+
 Each .csv file contains data for one quarter of the year. Each file contains the following data points:
 
                                                         Trip Information
@@ -57,4 +62,16 @@ Region: The municipality or area where a station is located, includes DTLA (Down
 
 Status: "Active" for stations available or "Inactive" for stations that are not available as of the latest update
 
+      
+                                                        Exploration Questions
+                                                        
+ 1. What is the average duration of a trip?
+ 2. What is the ratio of round vs one-way trips?
+ 3. What is the distribution of membership types? 
+ 4. Which month has the most volumne of trips? 
+ 5. Which day has the most volume of trips?
+ 6. What are the most popular start and end station?
+ 7. What are the most popular routes taken?
+ 
+ 
 Source: 2017 Annual Trips & Stations Datasets https://bikeshare.metro.net/about/data/
