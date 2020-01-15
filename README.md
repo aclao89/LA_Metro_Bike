@@ -11,6 +11,8 @@ Metro is a multimodal transportation agency that is really three companies in on
 Data Format
 Each .csv file contains data for one quarter of the year. Each file contains the following data points:
 
+                                                        Trip Information
+
 trip_id: Locally unique integer that identifies the trip
 
 duration: Length of trip in minutes (it is actually in seconds once I cleaned table)
@@ -41,7 +43,7 @@ passholder_type: The name of the passholder's plan
 bike_type: The kind of bike used on the trip, including standard pedal-powered bikes, electric assist bikes, or smart bikes.
 
 
-Station Information
+                                                        Station Information
 
 Data Format
 Station ID: Unique integer that identifies the station (this is the same ID used in the Trips and Station Status data)
