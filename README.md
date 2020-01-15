@@ -70,8 +70,10 @@ Status: "Active" for stations available or "Inactive" for stations that are not 
  3. What is the distribution of membership types? 
  4. Which month has the most volumne of trips? 
  5. Which day has the most volume of trips?
- 6. What are the most popular start and end station?
+ 6. What are the most popular start and end stations?
  7. What are the most popular routes taken?
+ 
+ I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
  
  
 Source: 2017 Annual Trips & Stations Datasets https://bikeshare.metro.net/about/data/
