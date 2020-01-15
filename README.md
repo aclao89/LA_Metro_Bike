@@ -10,7 +10,9 @@ Metro is a multimodal transportation agency that is really three companies in on
 
                                                         Data Format Overview
 Total rides in 2017: 229,255
+
 Columns: 14 
+
 Total rides after removing rows with N/A values: 225,034
 
 
