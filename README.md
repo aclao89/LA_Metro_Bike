@@ -4,6 +4,21 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
 
 ![metro_bike](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/DSC01282-1600x885.jpg)
 
+
+                                                        Exploration Questions
+                                                        
+ 1. What is the average duration of a trip?
+ 2. What is the ratio of round vs one-way trips?
+ 3. What is the distribution of membership types? 
+ 4. Which month has the most volume of trips? 
+ 5. Which day has the most volume of trips?
+ 6. Which day has the longest average duration of a trip?
+ 7. What are the most popular start and end stations?
+ 8. What are the most popular routes taken?
+ 
+ I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
+ 
+
 Metro Bike Share is a partnership between Metro and the City of Los Angeles.
 
 Metro is a multimodal transportation agency that is really three companies in one: a major operator that transports about 1.5 million boarding passengers on an average weekday on a fleet of 2,200 clean air buses and six rail lines, a major construction agency that oversees many bus, rail, highway and other mobility-related building projects, and it is the lead transportation planning and programming agency for Los Angeles County.  
@@ -65,18 +80,6 @@ Region: The municipality or area where a station is located, includes DTLA (Down
 Status: "Active" for stations available or "Inactive" for stations that are not available as of the latest update
 
       
-                                                        Exploration Questions
-                                                        
- 1. What is the average duration of a trip?
- 2. What is the ratio of round vs one-way trips?
- 3. What is the distribution of membership types? 
- 4. Which month has the most volume of trips? 
- 5. Which day has the most volume of trips?
- 6. Which day has the longest average duration of a trip?
- 7. What are the most popular start and end stations?
- 8. What are the most popular routes taken?
- 
- I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
  
  
 Source: 2017 Annual Trips & Stations Datasets https://bikeshare.metro.net/about/data/
