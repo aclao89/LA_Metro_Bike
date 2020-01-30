@@ -12,9 +12,14 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
  
  ![memberships](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/membership_types.png)
  
+ 63.4% of their membership base are monthly subscribers. 29.3% are walk-ups meaning customers just purchase on the spot without any membership enrollment. Generally, a company profits when their most of their customers have a subscription-based membership.
+ 
+ 
  Which day has the longest average trip duration?
  
  ![avg duration](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/avg_trip_duration_by_day.png)
+ 
+ Sunday had the highest average duration of a trip. According to the total volume of rides by day, Sunday had the least amount.It's possible that customers are just taking longer trips or more traffic that contributes to the higher duration.
  
  
  Which day has the most volume of trips?
@@ -22,12 +27,15 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
  
  ![daily_trips](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/daily_trips_by_week.png)
  
+ It's not suprising to see that the highest trip volume is on Friday. 
  
  
  Which month has the most volume of trips? 
  
  ![monthly trips](
 https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/monthly_trips_2017.png)
+
+The highest number of trips were during October 2017. This high volumn of trips might be related to the moderate weather (72°), tourism, and possibly school commute. It's expected to have a low volume during the cold winter months of January and February and steadily increase as Spring arrives.
 
 
 
