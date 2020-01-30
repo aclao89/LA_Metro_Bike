@@ -40,6 +40,7 @@ The highest number of trips were during October 2017. This high volumn of trips 
 
 
 
+
  What are the most popular start and end stations?
  What are the most popular routes taken?
  
