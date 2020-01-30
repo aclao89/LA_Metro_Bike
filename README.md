@@ -2,7 +2,10 @@
 
 The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downtown LA, Central LA, North Hollywood and the Westside. Metro Bike Share offers convenient round-the-clock access to a fleet of bicycles for short trips. Metro Bike Share is one of LA Metro's multiple public transportation options for Angelenos and visitors to get around.
 
+
 ![metro_bike](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/DSC01282-1600x885.jpg)
+
+I analyzed consumer behavior in terms of membership types, volumes of trips by day, monthly, popular routes and visualizations in the Greater Los Angeles area in 2017.
 
 
                                                         Exploration Questions
@@ -48,9 +51,6 @@ The highest number of trips were during October 2017. This high volumn of trips 
  I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
  
 
-Metro Bike Share is a partnership between Metro and the City of Los Angeles.
-
-Metro is a multimodal transportation agency that is really three companies in one: a major operator that transports about 1.5 million boarding passengers on an average weekday on a fleet of 2,200 clean air buses and six rail lines, a major construction agency that oversees many bus, rail, highway and other mobility-related building projects, and it is the lead transportation planning and programming agency for Los Angeles County.  
 
                                                         Data Format Overview
 Total rides in 2017: 229,255
