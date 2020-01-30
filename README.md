@@ -10,6 +10,8 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
  
  What is the distribution of membership types? 
  
+ ![memberships](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/membership_types.png)
+ 
  Which day has the longest average trip duration?
  
  ![avg duration](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/avg_trip_duration_by_day.png)
