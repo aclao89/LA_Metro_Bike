@@ -8,14 +8,30 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
                                                         Exploration Questions
                                                         
  
- 3. What is the distribution of membership types? 
- What ty
+ What is the distribution of membership types? 
+ 
  Which day has the longest average trip duration?
+ 
+ ![avg duration](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/avg_trip_duration_by_day.png)
+ 
+ 
  Which day has the most volume of trips?
- 4. Which month has the most volume of trips? 
+ 
+ 
+ ![daily_trips](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/daily_trips_by_week.png)
+ 
+ 
+ 
+ Which month has the most volume of trips? 
+ 
+ ![monthly trips](
+https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/monthly_trips_2017.png)
 
- 7. What are the most popular start and end stations?
- 8. What are the most popular routes taken?
+
+
+
+ What are the most popular start and end stations?
+ What are the most popular routes taken?
  
  I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
  
