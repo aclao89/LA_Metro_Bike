@@ -41,11 +41,31 @@ https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/monthly_trips_2017.p
 The highest number of trips were during October 2017. This high volumn of trips might be related to the moderate weather (72°), tourism, and possibly school commute. It's expected to have a low volume during the cold winter months of January and February and steadily increase as Spring arrives.
 
 
- I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
 
  What are the most popular start and end stations?
+ 
+ 
+ ![start stations](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/pop_start_stations.png)
+ 
+ 
+ 
+ 
+ 
+ ![end stations](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/pop_end_stations.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  What are the most popular routes taken?
  
+ ![popular routes}(https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/top_50_routes.png) 
+ 
+ 
+ 
+ Ocean Front Walk & Navy is in Venice Beach, a popular location for locals and tourists alike especially via bikes. Based on this chart, riders seem to take round trips in this area, perhaps it is near establishments. 
  
  
  I also included several geographical visualizations on popular stations, interactive map to gauge distance, and a heat map for volume of rides in an area.
