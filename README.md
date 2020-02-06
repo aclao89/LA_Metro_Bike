@@ -5,7 +5,7 @@ The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downt
 
 ![metro_bike](https://github.com/aclao89/LA_Metro_Bike/blob/master/Images/DSC01282-1600x885.jpg)
 
-I analyzed consumer behavior in terms of membership types, volumes of trips by day, monthly, popular routes and visualizations in the Greater Los Angeles area in 2017.
+I analyzed consumer behavior in terms of membership types, volumes of trips by day, monthly, popular routes and visualizations in the Greater Los Angeles area in 2017. Based on these findings, I can provide meaningful data to adjust station locations, number of bike availablity, popular routes taken, and popularity by month/day to improve usability and customer satisfaction. 
 
 
                                                         Exploration Questions
